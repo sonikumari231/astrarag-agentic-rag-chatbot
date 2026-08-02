@@ -211,3 +211,5 @@ __marimo__/
 doc_vector_store/
 
 
+# vector db dir
+doc_vector_store/
